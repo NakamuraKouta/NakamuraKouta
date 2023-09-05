@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nakamurakouta)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Nakamurakouta/Nakamurakouta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
